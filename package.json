@@ -1,0 +1,13 @@
+{
+  "id": "netvibes",
+  "name": "Netvibes",
+  "version": "1.0.0",
+  "description": "Netvibes",
+  "main": "index.js",
+  "author": "Edouard Schuppert",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.netvibes.com/dashboard/",
+    "hasNotificationSound": false
+  }
+}
